@@ -15,12 +15,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  archive: ^3.3.6
-  flutter_slidable: ^2.0.0
-  share_plus: ^6.3.1
-  intl: ^0.17.0
+  archive: ^3.3.7
+  flutter_slidable: ^3.0.0
+  share_plus: ^7.0.1
+  intl: ^0.18.1
   #file: ^6.1.4
-  plugin_platform_interface: ^2.1.2
+  plugin_platform_interface: ^2.1.4
 
 
 dev_dependencies:
